@@ -25,7 +25,7 @@ import HorizontalTree from "./components/HorizontalTree.vue";
 import MultipleTree from "./components/MultipleTree.vue";
 import VerticalTree from "./components/VerticalTree.vue";
 
-const treeType = ref("multiple");
+const treeType = ref("circular");
 </script>
 
 <style>
